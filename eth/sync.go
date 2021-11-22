@@ -21,12 +21,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/eth/downloader"
-	"github.com/ethereum/go-ethereum/eth/protocols/eth"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/core/rawdb"
+	"github.com/qbyyf/go-ethereum/core/types"
+	"github.com/qbyyf/go-ethereum/eth/downloader"
+	"github.com/qbyyf/go-ethereum/eth/protocols/eth"
+	"github.com/qbyyf/go-ethereum/log"
 )
 
 const (

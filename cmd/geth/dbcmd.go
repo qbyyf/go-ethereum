@@ -29,14 +29,14 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/console/prompt"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/qbyyf/go-ethereum/cmd/utils"
+	"github.com/qbyyf/go-ethereum/common"
+	"github.com/qbyyf/go-ethereum/common/hexutil"
+	"github.com/qbyyf/go-ethereum/console/prompt"
+	"github.com/qbyyf/go-ethereum/core/rawdb"
+	"github.com/qbyyf/go-ethereum/ethdb"
+	"github.com/qbyyf/go-ethereum/log"
+	"github.com/qbyyf/go-ethereum/trie"
 	"gopkg.in/urfave/cli.v1"
 )
 
